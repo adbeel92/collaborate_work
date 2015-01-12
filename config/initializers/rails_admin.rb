@@ -17,6 +17,7 @@ RailsAdmin.config do |config|
     field :first_name
     field :last_name
     field :email
+    #comment
   end
 
   ## == Cancan ==
