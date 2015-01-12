@@ -1,1 +1,1 @@
-Admin.create email: 'julio.castillo@tektonlabs.com', password: 'password', first_name: 'Julio', last_name: 'Castillo', profile: :admin
+Admin.create email: 'julio.castillo@tektonlabs.com', password: 'password2', first_name: 'Julio', last_name: 'Castillo', profile: :admin
